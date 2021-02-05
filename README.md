@@ -57,3 +57,12 @@ This a Turing Frontend Module 1 final project. The goal is to make a fully playa
 
 * Timer to display how long round took
 * Implement local storage to keep wins and rounds
+
+---
+## Installing and running
+
+To install the test clone this directory to your local machine. 
+To Start
+* First make sure you are in directory
+* Run `node index.js` in the terminal
+* Press enter and run the game!
